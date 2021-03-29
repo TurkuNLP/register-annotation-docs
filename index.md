@@ -8,7 +8,7 @@ title: Web register annotation guidelines
 1. Is the web page **Machine translated generated** from a template?
 2. Is the web page **Lyrical**, such as songs or poems?
 3. Is the web page originally spoken? (Texts composed of more than 50% spoken quotes classified as spoken)
-    * If yes, is it an **interview**?
+    * If yes, is it an **Interview**?
     * If no, select **Other spoken**. This includes e.g. formal speeches and TV/movie transcripts.
 4. Is the web page written by multiple participants in a discussion format, like a **Discussion or question-answer forum**? (Reader comments following e.g. an article or blog post are NOT included here)
 5. Is the purpose of the document to narrate or report on EVENTS? If yes, select one of the following registers:
