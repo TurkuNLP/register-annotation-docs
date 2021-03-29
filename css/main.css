@@ -487,6 +487,10 @@ a:visited { color: #205caa; }
 
 /* local styles */
 
+li {
+  margin-bottom: 10px;
+}
+
 div.documentation-example {
   border: 1px solid gray;
   margin:1em;
