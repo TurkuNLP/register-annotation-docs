@@ -15,11 +15,11 @@ markdown_ext: md
 
 # Site settings
 
-name: Annodoc
-baseurl: "/annodoc"
-homeurl: "https://github.com/spyysalo/annodoc/"
-editurl: "https://github.com/spyysalo/annodoc/edit/gh-pages"
-issueurl: "https://github.com/spyysalo/annodoc/issues"
+name: Register-Annotation-Docs
+baseurl: "/register-annotation-docs"
+homeurl: "https://github.com/TurkuNLP/register-annotation-docs/"
+editurl: "https://github.com/TurkuNLP/register-annotation-docs/edit/gh-pages"
+issueurl: "https://github.com/TurkuNLP/register-annotation-docs/issues"
 
 ##############################################################################
 
