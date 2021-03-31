@@ -5,7 +5,7 @@ title: Web register annotation guidelines
 
 ## Quickstart
 
-1. Is the web page **Machine translated generated** from a template?
+1. Is the web page **Machine translated or generated** from a template?
 2. Is the web page **Lyrical**, such as songs or poems?
 3. Is the web page originally spoken? (Texts composed of more than 50% spoken quotes classified as spoken)
     * If yes, is it an **Interview**?
