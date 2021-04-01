@@ -32,6 +32,6 @@ title: Web register annotation guidelines
     * **Denominational religious blog / sermon** 
     * **Advice**
     * **Other opinion**
-9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE? If yes, select one of the following registers:
+9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
     * Is the text a **News blog / editorial**? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
     * If not, select **Other informational persuasion**. These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game.
