@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "NA-ne"
-shortdef: ""
+shortdef: "News report"
 ---
 
 TODO
