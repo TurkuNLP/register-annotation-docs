@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "IN-ra"
-shortdef: ""
+shortdef: "Research article"
 ---
 
 TODO
