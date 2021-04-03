@@ -17,7 +17,7 @@ title: Web register annotation guidelines
     * [**Narrative blog**](NA-nb) (e.g a travel blog or a personal blog)
     * [**Other narrative**](TODO) (e.g. fictional stories and magazine articles)
 6. Is the purpose of the document to explain HOW-TO or INSTRUCTIONS?
-    * If yes, is it a [**recipe**](HI-re)?
+    * If yes, is it a [**Recipe**](HI-re)?
     * If no, select [**Other how-to**](TODO). These are typically step-by-step, objective instructions on how to do something.
 7. Is the purpose of the document to describe or explain INFORMATION? If yes, select one of the following registers:
     * [**Encyclopedia article**](IN-en) 
