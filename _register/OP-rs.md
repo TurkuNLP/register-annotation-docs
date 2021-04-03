@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "OP-rs"
-shortdef: ""
+shortdef: "Denominational religious blog / sermon"
 ---
 
 TODO
