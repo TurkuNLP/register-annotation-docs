@@ -4,7 +4,7 @@ title: "HI-oh"
 shortdef: "Other how-to"
 ---
 
-TODO
+**Example**: <https://ncsr.gov.au/content/ncsr/en/accessibility.html>
 
 <!-- details -->
 
