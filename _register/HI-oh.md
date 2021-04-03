@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "HI-oh"
-shortdef: ""
+shortdef: "Other how-to"
 ---
 
 TODO
