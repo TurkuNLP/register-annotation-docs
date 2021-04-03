@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "IP-oe"
-shortdef: ""
+shortdef: "Other informational persuasion"
 ---
 
 TODO
