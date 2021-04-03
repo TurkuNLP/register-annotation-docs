@@ -26,7 +26,5 @@ issueurl: "https://github.com/TurkuNLP/register-annotation-docs/issues"
 # Collection settings
 
 collections:
-  entity:
-    output: true
-  relation:
+  register:
     output: true
