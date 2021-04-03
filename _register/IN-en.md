@@ -4,7 +4,9 @@ title: "IN-en"
 shortdef: "Encyclopedia article"
 ---
 
-TODO
+**Example**: <https://www.dictionary.com/browse/likelier>
+
+**Example**: <https://en.wikipedia.org/wiki/Turku>
 
 <!-- details -->
 
