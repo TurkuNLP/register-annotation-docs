@@ -4,7 +4,7 @@ title: "IN-oi"
 shortdef: "Other Informational description"
 ---
 
-TODO
+**Example**: <https://faculty.washington.edu/smcohen/320/heracli.htm>
 
 <!-- details -->
 
