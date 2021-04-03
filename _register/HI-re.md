@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "HI-re"
-shortdef: ""
+shortdef: "Recipe"
 ---
 
 TODO
