@@ -5,10 +5,10 @@ title: Web register annotation guidelines
 
 ## Quickstart
 
-1. Is the web page **Machine translated or generated** from a template?
-2. Is the web page **Lyrical**, such as songs or poems?
+1. Is the web page [MT](**Machine translated or generated**) from a template?
+2. Is the web page [LY](**Lyrical**), such as songs or poems?
 3. Is the web page originally spoken? (Texts composed of more than 50% spoken quotes classified as spoken)
-    * If yes, is it an **Interview**?
+    * If yes, is it an [MT-it](**Interview**)?
     * If no, select **Other spoken**. This includes e.g. formal speeches and TV/movie transcripts.
 4. Is the web page written by multiple participants in a discussion format, like a **Discussion or question-answer forum**? (Reader comments following e.g. an article or blog post are NOT included here)
 5. Is the purpose of the document to narrate or report on EVENTS? If yes, select one of the following registers:
@@ -35,7 +35,3 @@ title: Web register annotation guidelines
 9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
     * Is the text a **News blog / editorial**? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
     * If not, select **Other informational persuasion**. These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game.
-
----
-
-Testing: [MT]() 
