@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "OP-ob"
-shortdef: ""
+shortdef: "Opinion blog"
 ---
 
 TODO
