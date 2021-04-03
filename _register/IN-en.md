@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "IN-en"
-shortdef: ""
+shortdef: "Encyclopedia article"
 ---
 
 TODO
