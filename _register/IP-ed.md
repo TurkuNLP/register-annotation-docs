@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "IP-ed"
-shortdef: ""
+shortdef: "News blog / editorial"
 ---
 
 TODO
