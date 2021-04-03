@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "SP-os"
-shortdef: ""
+shortdef: "Other spoken"
 ---
 
 TODO
