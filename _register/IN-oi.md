@@ -6,6 +6,8 @@ shortdef: "Other Informational description"
 
 **Example**: <https://faculty.washington.edu/smcohen/320/heracli.htm>
 
+**Example**: <https://www.snopes.com/fact-check/hydrogen-peroxide/>
+
 <!-- details -->
 
 TODO
