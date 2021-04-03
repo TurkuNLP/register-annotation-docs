@@ -4,7 +4,7 @@ title: "SP-os"
 shortdef: "Other spoken"
 ---
 
-TODO
+**Example**: <https://www.trumanlibrary.gov/library/public-papers/78/radio-report-american-people-korea-and-us-policy-far-east>
 
 <!-- details -->
 

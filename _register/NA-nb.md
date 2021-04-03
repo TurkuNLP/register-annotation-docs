@@ -4,7 +4,7 @@ title: "NA-nb"
 shortdef: "Narrative blog"
 ---
 
-TODO
+**Example**: <https://cocoandcowe.com/2012/06/14/i-want-to-be-on-pick-a-puppy/>
 
 <!-- details -->
 

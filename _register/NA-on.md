@@ -4,7 +4,7 @@ title: "NA-on"
 shortdef: "Other narrative"
 ---
 
-TODO
+**Example**: <https://rbkclocalstudies.wordpress.com/2012/09/27/wild-wild-west-buffalo-bill-in-earls-court/>
 
 <!-- details -->
 

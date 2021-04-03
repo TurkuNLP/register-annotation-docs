@@ -4,7 +4,7 @@ title: "HI-re"
 shortdef: "Recipe"
 ---
 
-TODO
+**Example**: <https://wholefully.com/next-day-turkey-vegetable-soup/>
 
 <!-- details -->
 

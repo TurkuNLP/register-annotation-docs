@@ -24,7 +24,7 @@ title: Web register annotation guidelines
     * [**Research article**](IN-ra)
     * [**Description of a thing or person**](IN-dtp)
     * [**FAQ**](IN-fi)
-    * [**Legal terms / conditions**](IN-lt) (including long cookie texts)
+    * [**Legal terms and conditions**](IN-lt) (including long cookie texts)
     * [**Other Informational description**](IN-oi) (e.g. course materials and blogs for informing the reader)
 8. Is the purpose of the document to express OPINIONS? If yes, select one of the following registers: (Note that Opinion blogs are typically written by an amateur writer such as a politician to express their opinion, and also texts under Advice are based on opinions. How-to texts above express objective instructions.)
     * [**Review**](OP-rv)
@@ -33,5 +33,5 @@ title: Web register annotation guidelines
     * [**Advice**](OP-av)
     * [**Other opinion**](OP-oo)
 9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
-    * Is the text a [**News blog / editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
+    * Is the text a [**News & opinion blog or editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
     * If not, select [**Other informational persuasion**](IP-oe). These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game.
