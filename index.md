@@ -30,7 +30,7 @@ title: Web register annotation guidelines
     * [**Review**](OP-rv)
     * [**Opinion blog**](OP-ob)
     * [**Denominational religious blog / sermon**](OP-rs)
-    * [**Advice**](OP-ad)
+    * [**Advice**](OP-av)
     * [**Other opinion**](TODO)
 9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
     * Is the text a [**News blog / editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
