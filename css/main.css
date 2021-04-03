@@ -491,6 +491,10 @@ li {
   margin-bottom: 10px;
 }
 
+img.thumbnail {
+  max-width: 50%;
+}
+
 div.documentation-example {
   border: 1px solid gray;
   margin:1em;
