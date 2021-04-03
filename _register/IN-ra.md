@@ -4,7 +4,7 @@ title: "IN-ra"
 shortdef: "Research article"
 ---
 
-TODO
+**Example**: <https://tobaccocontrol.bmj.com/content/8/2/141>
 
 <!-- details -->
 
