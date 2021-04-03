@@ -4,7 +4,7 @@ title: "OP-oo"
 shortdef: "Other opinion"
 ---
 
-TODO
+**Example**: <https://patch.com/connecticut/fairfield/the-nature-of-prostate-cancer-d8e8dbd6>
 
 <!-- details -->
 
