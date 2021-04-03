@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "IN-oi"
-shortdef: ""
+shortdef: "Other Informational description"
 ---
 
 TODO
