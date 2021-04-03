@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "NA-on"
-shortdef: ""
+shortdef: "Other narrative"
 ---
 
 TODO
