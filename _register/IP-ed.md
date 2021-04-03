@@ -1,10 +1,10 @@
 ---
 layout: entry
 title: "IP-ed"
-shortdef: "News blog or editorial"
+shortdef: "News & opinion blog or editorial"
 ---
 
-TODO
+**Example**: <https://www.theguardian.com/commentisfree/2012/sep/17/boris-johnson-conservatives-election>
 
 <!-- details -->
 
