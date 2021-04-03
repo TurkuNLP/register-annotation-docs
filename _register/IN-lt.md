@@ -1,10 +1,10 @@
 ---
 layout: entry
 title: "IN-lt"
-shortdef: ""
+shortdef: "Legal terms and conditions"
 ---
 
-TODO
+**Example**: <https://www.legislation.govt.nz/act/public/1991/0069/latest/DLM240644.html>
 
 <!-- details -->
 
