@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "OP-oo"
-shortdef: ""
+shortdef: "Other opinion"
 ---
 
 TODO
