@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "LY"
-shortdef: ""
+shortdef: "Lyrical"
 ---
 
 TODO
