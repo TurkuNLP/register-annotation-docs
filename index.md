@@ -22,7 +22,7 @@ title: Web register annotation guidelines
 7. Is the purpose of the document to describe or explain INFORMATION? If yes, select one of the following registers:
     * [**Encyclopedia article**](IN-en) 
     * [**Research article**](IN-ra)
-    * [**Description of a person or thing**](IN-dpt)
+    * [**Description of a thing or person**](IN-dtp)
     * [**FAQ**](IN-fi)
     * [**Legal terms / conditions**](IN-lt) (including long cookie texts)
     * [**Other Informational description**](TODO) (e.g. course materials and blogs for informing the reader)
