@@ -4,7 +4,7 @@ title: "LY"
 shortdef: "Lyrical"
 ---
 
-TODO
+**Example**: https://www.metrolyrics.com/ive-got-to-see-you-again-lyrics-norah-jones.html
 
 <!-- details -->
 
