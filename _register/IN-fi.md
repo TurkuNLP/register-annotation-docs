@@ -1,10 +1,12 @@
 ---
 layout: entry
 title: "IN-fi"
-shortdef: ""
+shortdef: "Frequently Asked Questions"
 ---
 
-TODO
+**Example**: <https://www.propertyinvestmentproject.co.uk/blog/tenants-without-a-written-contract/>
+
+**Example**: <https://www.canadaadopts.com/adopting-in-canada/adopting-canada-faqs/>
 
 <!-- details -->
 
