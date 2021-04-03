@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "ID"
-shortdef: ""
+shortdef: "Interactive discussion"
 ---
 
 TODO

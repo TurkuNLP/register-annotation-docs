@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "OP-av"
-shortdef: ""
+shortdef: "Advice"
 ---
 
 TODO

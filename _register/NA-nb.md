@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: "NA-nb"
-shortdef: ""
+shortdef: "Narrative blog"
 ---
 
 TODO
