@@ -4,9 +4,11 @@ title: "SP-it"
 shortdef: "Interview"
 ---
 
-**Example**: <https://www.thelineofbestfit.com/new-music/discovery/the-hospital-club-sessions-outfit-interview-112831>
+Interview
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
