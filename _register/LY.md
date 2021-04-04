@@ -30,5 +30,4 @@ shortdef: "Lyrical"
     </tr>
   </tbody>
 </table>
-
 <!-- END GENERATED SCREENSHOT GALLERY -->
