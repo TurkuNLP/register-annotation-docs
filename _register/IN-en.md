@@ -17,4 +17,8 @@ shortdef: "Encyclopedia article"
     <td>URL: <a href="https://en.wikipedia.org/wiki/Turku">https://en.wikipedia.org/wiki/Turku</a></td>
     <td><img class="thumbnail" src="../static/screenshots/en.wikipedia.org_wiki_Turku--2048x1536.png"></td>
   </tr>
+  <tr>
+    <td>URL: <a href="https://en.wikipedia.org/wiki/Turku">https://en.wikipedia.org/wiki/Turku</a></td>
+    <td><img class="thumbnail" src="../static/screenshots/en.wikipedia.org_wiki_Turku--1920x1080.png"></td>
+  </tr>
 </table>
