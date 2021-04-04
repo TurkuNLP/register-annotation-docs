@@ -10,4 +10,5 @@ shortdef: "Other Informational description"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

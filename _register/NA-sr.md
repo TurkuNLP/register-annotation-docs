@@ -10,4 +10,5 @@ shortdef: "Sports report"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

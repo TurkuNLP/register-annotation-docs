@@ -8,4 +8,5 @@ shortdef: "News & opinion blog or editorial"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

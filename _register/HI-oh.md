@@ -8,4 +8,5 @@ shortdef: "Other how-to"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

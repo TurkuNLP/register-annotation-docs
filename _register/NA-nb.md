@@ -8,4 +8,5 @@ shortdef: "Narrative blog"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

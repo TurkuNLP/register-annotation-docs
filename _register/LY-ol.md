@@ -1,11 +1,12 @@
 ---
 layout: entry
 title: "LY-ol"
-shortdef: ""
+shortdef: "Other lyrical"
 ---
 
 TODO
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

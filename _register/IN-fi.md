@@ -10,4 +10,5 @@ shortdef: "Frequently Asked Questions"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

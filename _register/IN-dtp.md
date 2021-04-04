@@ -10,4 +10,5 @@ shortdef: "Description of a thing or person (excluding encyclopedia articles)"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

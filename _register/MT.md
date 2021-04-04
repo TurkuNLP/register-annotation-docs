@@ -8,8 +8,5 @@ TODO
 
 <!-- details -->
 
-TODO2
-
-------------------------------------------------------------------------------
-
-TODO3
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

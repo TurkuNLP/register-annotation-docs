@@ -8,4 +8,5 @@ shortdef: "Denominational religious blog / sermon"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->

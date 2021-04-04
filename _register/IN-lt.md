@@ -8,4 +8,5 @@ shortdef: "Legal terms and conditions"
 
 <!-- details -->
 
-TODO
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!-- END GENERATED SCREENSHOT GALLERY -->
