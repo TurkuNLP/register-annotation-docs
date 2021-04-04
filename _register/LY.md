@@ -12,9 +12,6 @@ shortdef: "Lyrical"
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
 <!--     Please avoid modifying it manually: any changes will be         -->
 <!--     overwritten the next time the generation script is run.         -->
-<!--     NOTE: this screenshot gallery is automatically generated.       -->
-<!--     Please avoid modifying it manually: any changes will be         -->
-<!--     overwritten the next time the generation script is run.         -->
 <table class="website-examples">
   <thead>
     <tr>
