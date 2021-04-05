@@ -4,9 +4,11 @@ title: "IN-ra"
 shortdef: "Research article"
 ---
 
-**Example**: <https://tobaccocontrol.bmj.com/content/8/2/141>
+Research article
 
 <!-- details -->
+
+## Example
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
