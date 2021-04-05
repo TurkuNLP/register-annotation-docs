@@ -510,6 +510,7 @@ img.thumbnail:hover {
 table.website-examples {
   table-layout: fixed;
   width: 100%;
+  border-spacing: 1em;
 }
 
 th.website-examples-col-1 {
