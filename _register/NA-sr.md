@@ -5,8 +5,6 @@ shortdef: "Sports report"
 subregister_of: Narrative
 ---
 
-## Sports report
-
 - Purpose to report on a recent sports event
 - Typically written by professional journalists, but can also be published in amateur settings 
 - Time-sensitive -- published and read as fast as possible
