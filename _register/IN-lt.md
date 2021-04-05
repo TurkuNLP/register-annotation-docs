@@ -5,9 +5,11 @@ shortdef: "Legal terms and conditions"
 subregister_of: Informational description
 ---
 
-**Example**: <https://www.legislation.govt.nz/act/public/1991/0069/latest/DLM240644.html>
+Legal terms and conditions
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
