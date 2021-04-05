@@ -4,9 +4,11 @@ title: "NA-nb"
 shortdef: "Narrative blog"
 ---
 
-**Example**: <https://cocoandcowe.com/2012/06/14/i-want-to-be-on-pick-a-puppy/>
+Narrative blog
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
