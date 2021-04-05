@@ -5,9 +5,11 @@ shortdef: "Other opinion"
 subregister_of: Opinion
 ---
 
-**Example**: <https://patch.com/connecticut/fairfield/the-nature-of-prostate-cancer-d8e8dbd6>
+Other opinion
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
