@@ -4,7 +4,7 @@ title: "IN-dtp"
 shortdef: "Description of a thing or person"
 ---
 
-Description of a thing or person (excluding encyclopedia articles)
+Description of a thing or person (excluding [Encyclopedia articles](IN-en))
 
 <!-- details -->
 
