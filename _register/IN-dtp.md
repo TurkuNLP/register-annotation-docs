@@ -26,7 +26,7 @@ Description of a thing or person (excluding [Encyclopedia articles](IN-en))
       <td>
         <div class="img-url"><b>URL</b>: <a href="http://www.euroblind.org/convention/article-9/netherlands">http://www.euroblind.org/convention/article-9/netherlands</a></div>
         <div class="img-info"><b>Language</b>: English</div>
-        <div class="img-info"><b>Description</b>: Travel accessibility information for the Netherlands</div>
+        <div class="img-info"><b>Description</b>: Travel accessibility information for The Netherlands</div>
       </td>
       <td><a href="../static/screenshots/IN-dtp/www.euroblind.org_convention_article-9_netherlands--2048x1536.png"><img class="thumbnail" src="../static/screenshots/IN-dtp/www.euroblind.org_convention_article-9_netherlands--2048x1536.png" alt="screenshot of www.euroblind.org_convention_article-9_netherlands--2048x1536"></a></td>
     </tr>
