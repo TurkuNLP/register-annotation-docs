@@ -491,6 +491,10 @@ li {
   margin-bottom: 10px;
 }
 
+li li {
+  margin-bottom: 0;
+}
+
 img.thumbnail {
   max-width: 50%;
   display: block;
