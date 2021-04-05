@@ -22,8 +22,8 @@ shortdef: "Lyrical"
   <tbody>
     <tr>
       <td>
-        <div class="img-info"><b>Language</b>: English</div>
         <div class="img-url"><b>URL</b>: <a href="https://www.metrolyrics.com/ive-got-to-see-you-again-lyrics-norah-jones.html">https://www.metrolyrics.com/ive-got-to-see-you-again-lyrics-norah-jones.html</a></div>
+        <div class="img-info"><b>Language</b>: English</div>
         <div class="img-info"><b>Description</b>: Page with Lyrics for pop song</div>
       </td>
       <td><a href="../static/screenshots/LY/www.metrolyrics.com_ive-got-to-see-you-again-lyrics-norah-jones.html--2048x1536.png"><img class="thumbnail" src="../static/screenshots/LY/www.metrolyrics.com_ive-got-to-see-you-again-lyrics-norah-jones.html--2048x1536.png" alt="screenshot of www.metrolyrics.com_ive-got-to-see-you-again-lyrics-norah-jones.html--2048x1536"></a></td>
