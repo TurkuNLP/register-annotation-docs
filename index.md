@@ -26,11 +26,11 @@ title: Web register annotation guidelines
     * [**FAQ**](IN-fi)
     * [**Legal terms and conditions**](IN-lt) (including long cookie texts)
     * [**Other Informational description**](IN-oi) (e.g. course materials and blogs for informing the reader)
-8. Is the purpose of the document to express OPINIONS? If yes, select one of the following registers: (Note that Opinion blogs are typically written by an amateur writer such as a politician to express their opinion, and also texts under Advice are based on opinions. How-to texts above express objective instructions.)
+8. Is the purpose of the document to express OPINIONS? If yes, select one of the following registers:
     * [**Review**](OP-rv)
-    * [**Opinion blog**](OP-ob)
+    * [**Opinion blog**](OP-ob) (typically written by an amateur writer, such as a politician, to express their opinion)
     * [**Denominational religious blog / sermon**](OP-rs)
-    * [**Advice**](OP-av)
+    * [**Advice**](OP-av) (based on opinion; contrast with how-to text, which express objective instructions)
     * [**Other opinion**](OP-oo)
 9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
     * Is the text a [**News & opinion blog or editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.

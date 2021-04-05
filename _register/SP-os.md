@@ -4,7 +4,7 @@ title: "SP-os"
 shortdef: "Other spoken"
 ---
 
-Other spoken
+Texts other than [Interviews](SP-it) that are composed of more than 50% spoken material, for example formal speeches and TV/movie transcripts.
 
 <!-- details -->
 
