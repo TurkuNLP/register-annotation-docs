@@ -4,9 +4,11 @@ title: "HI-oh"
 shortdef: "Other how-to"
 ---
 
-**Example**: <https://ncsr.gov.au/content/ncsr/en/accessibility.html>
+Other how-to
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
