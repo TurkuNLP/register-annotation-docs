@@ -8,7 +8,7 @@ Research article
 
 <!-- details -->
 
-## Example
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
