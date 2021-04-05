@@ -6,6 +6,8 @@ shortdef: "Sports report"
 
 Sports report
 
+Note that not all texts on the topic of sport are automatically annotated as **Sports report**. If the purpose of the text is not to narrate sports events, other register classes should be considered. For example, an article about politics in sport could be annotated as [News report](NA-ne).
+
 <!-- details -->
 
 ## Examples
