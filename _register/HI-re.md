@@ -4,9 +4,11 @@ title: "HI-re"
 shortdef: "Recipe"
 ---
 
-**Example**: <https://wholefully.com/next-day-turkey-vegetable-soup/>
+Recipe
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
