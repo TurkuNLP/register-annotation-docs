@@ -5,9 +5,14 @@ shortdef: "Other spoken"
 subregister_of: Spoken
 ---
 
-Texts other than [Interviews](SP-it) that are composed of more than 50% spoken material, for example formal speeches and TV/movie transcripts.
+- Texts other than [Interviews](SP-it) that are composed of more than 50% spoken material
+- For example formal speeches, such as ones held by politicians
+- TV/movie transcripts or Youtube video transcripts 
 
 <!-- details -->
+
+
+
 
 ## Examples
 

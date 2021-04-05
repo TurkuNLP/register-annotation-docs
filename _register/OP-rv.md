@@ -5,11 +5,11 @@ shortdef: "Review"
 subregister_of: Opinion
 ---
 
-**Example**: <https://liveforlivemusic.com/news/dave-matthews-band-away-from-the-world-album-review/>
-
-**Example**: <http://www.theatreview.org.nz/reviews/review.php?id=5224>
+Review
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
