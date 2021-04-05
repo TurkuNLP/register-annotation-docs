@@ -4,9 +4,11 @@ title: "NA-on"
 shortdef: "Other narrative"
 ---
 
-**Example**: <https://rbkclocalstudies.wordpress.com/2012/09/27/wild-wild-west-buffalo-bill-in-earls-court/>
+Other narrative
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
