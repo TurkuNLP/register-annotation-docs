@@ -5,7 +5,13 @@ shortdef: "News report"
 subregister_of: Narrative
 ---
 
-News report
+## News report
+
+- News reports written by journalists and published by news outlets
+- Also releases and newsletters published by sports associations, companies, etc.
+- Purpose to report on recent events
+- Typically professionally written and time-sensitive - published and read as fast as possible
+- See Biber & Egbert 74-75
 
 <!-- details -->
 
