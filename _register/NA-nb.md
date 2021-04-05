@@ -5,7 +5,13 @@ shortdef: "Narrative blog"
 subregister_of: Narrative
 ---
 
-Narrative blog
+## Narrative blog
+
+- Personal blogs, travel blogs, lifestyle blogs, blogs written by communities
+- Purpose to narrate / comment about events experienced by the writer(s)
+- Typically amateur writers
+- Can include interactive aspects, such as comments following the post
+- See Biber & Egbert 2018: 74-79
 
 <!-- details -->
 
