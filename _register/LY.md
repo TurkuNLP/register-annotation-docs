@@ -4,9 +4,11 @@ title: "LY"
 shortdef: "Lyrical"
 ---
 
-**Example**: <https://www.metrolyrics.com/ive-got-to-see-you-again-lyrics-norah-jones.html>
+Lyrical
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
