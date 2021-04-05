@@ -5,9 +5,11 @@ shortdef: "News & opinion blog or editorial"
 subregister_of: Informational persuasion
 ---
 
-**Example**: <https://www.theguardian.com/commentisfree/2012/sep/17/boris-johnson-conservatives-election>
+News & opinion blog or editorial
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
