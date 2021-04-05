@@ -4,7 +4,8 @@ layout: default
 <div class="entry">
 
   <header class="entry-header">
-    <h1>{% if page.shortdef %}{{ page.shortdef }}{% else %}{{ page.title }}{% endif %}</h1>
+    <h1>{% if page.shortdef %}{{ page.shortdef }}{% else %}{{ page.title }}{% endif %}</h1>{% if page.subregister_of %}
+    (Subregister of {{page.subregister_of}}){% endif %}
   </header>
   <article class="entry-content">
   {{ content }}
