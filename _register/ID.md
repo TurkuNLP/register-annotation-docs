@@ -4,9 +4,11 @@ title: "ID"
 shortdef: "Interactive discussion"
 ---
 
-**Example**: <http://pets.ca/forum/showthread.php?t=32222>
+Interactive discussion
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
