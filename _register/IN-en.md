@@ -10,6 +10,10 @@ Encyclopedia articles.
 
 ## Examples
 
+<!-- START GENERATED SCREENSHOT GALLERY -->
+<!--     NOTE: this screenshot gallery is automatically generated.       -->
+<!--     Please avoid modifying it manually: any changes will be         -->
+<!--     overwritten the next time the generation script is run.         -->
 <table class="website-examples">
   <thead>
     <tr>
@@ -19,12 +23,21 @@ Encyclopedia articles.
   </thead>
   <tbody>
     <tr>
-      <td>URL: <a href="https://en.wikipedia.org/wiki/Turku">https://en.wikipedia.org/wiki/Turku</a></td>
-      <td><a href="../static/screenshots/en.wikipedia.org_wiki_Turku--2048x1536.png"><img class="thumbnail" src="../static/screenshots/en.wikipedia.org_wiki_Turku--2048x1536.png"></a></td>
+      <td>
+        <div class="img-url"><b>URL</b>: <a href="https://en.wikipedia.org/wiki/Turku">https://en.wikipedia.org/wiki/Turku</a></div>
+        <div class="img-info"><b>Language</b>: English</div>
+        <div class="img-info"><b>Description</b>: English Wikipedia page for Turku, a city in Finland</div>
+      </td>
+      <td><a href="../static/screenshots/IN-en/en.wikipedia.org_wiki_Turku--2048x1536.png"><img class="thumbnail" src="../static/screenshots/IN-en/en.wikipedia.org_wiki_Turku--2048x1536.png" alt="screenshot of en.wikipedia.org_wiki_Turku--2048x1536"></a></td>
     </tr>
     <tr>
-      <td>URL: <a href="https://www.dictionary.com/browse/likelier">https://www.dictionary.com/browse/likelier</a></td>
-      <td><a href="../static/screenshots/www.dictionary.com_browse_likelier--2048x1536.png"><img class="thumbnail" src="../static/screenshots/www.dictionary.com_browse_likelier--2048x1536.png"></a></td>
+      <td>
+        <div class="img-url"><b>URL</b>: <a href="https://www.dictionary.com/browse/likelier">https://www.dictionary.com/browse/likelier</a></div>
+        <div class="img-info"><b>Language</b>: English</div>
+        <div class="img-info"><b>Description</b>: Dictionary page for the word &quot;likely&quot;</div>
+      </td>
+      <td><a href="../static/screenshots/IN-en/www.dictionary.com_browse_likelier--2048x1536.png"><img class="thumbnail" src="../static/screenshots/IN-en/www.dictionary.com_browse_likelier--2048x1536.png" alt="screenshot of www.dictionary.com_browse_likelier--2048x1536"></a></td>
     </tr>
   </tbody>
 </table>
+<!-- END GENERATED SCREENSHOT GALLERY -->
