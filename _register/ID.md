@@ -4,15 +4,13 @@ title: "ID"
 shortdef: "Interactive discussion"
 ---
 
-## Interactive discussion
-
-<!-- details -->
-
 - Interactive forum discussions with discussion participants and possibly other readers
 - Question-answer forums, where one person asks a question and one or several answer it
 - Reader/viewer responses
 - Originally written!
 - See Biber & Ebgert 2018: 177-179, 
+
+<!-- details -->
 
 ## Examples
 

@@ -5,8 +5,6 @@ shortdef: "Interview"
 subregister_of: Spoken
 ---
 
-## Interview
-
 - Typically one interviewer and one interviewee
 - Participants a radio show host / journalist and a famous person or an invited expert
 - Most interviews are dialogic and have a question-answer format

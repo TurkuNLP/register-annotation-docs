@@ -4,9 +4,7 @@ title: "LY"
 shortdef: "Lyrical"
 ---
 
-## Lyrical
-
-- These are the most often song lyrics or poems
+- Most often song lyrics or poems
 - Typically, the texts are originally written by professional songwriters and poets, but they are posted online by fans and online contributors
 - See Biber & Egbert 2018: 178-186
 
