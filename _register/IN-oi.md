@@ -5,11 +5,11 @@ shortdef: "Other Informational description"
 subregister_of: Informational description
 ---
 
-**Example**: <https://faculty.washington.edu/smcohen/320/heracli.htm>
-
-**Example**: <https://www.snopes.com/fact-check/hydrogen-peroxide/>
+Other Informational description
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
