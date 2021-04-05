@@ -2,6 +2,7 @@
 layout: entry
 title: "NA-sr"
 shortdef: "Sports report"
+subregister_of: Narrative
 ---
 
 Sports report

@@ -2,6 +2,7 @@
 layout: entry
 title: "OP-av"
 shortdef: "Advice"
+subregister_of: Opinion
 ---
 
 **Example**: <https://www.chrisbanescu.com/2012/04/secrets-of-the-most-productive-people-i-know/>

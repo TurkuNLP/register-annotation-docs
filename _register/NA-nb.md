@@ -2,6 +2,7 @@
 layout: entry
 title: "NA-nb"
 shortdef: "Narrative blog"
+subregister_of: Narrative
 ---
 
 Narrative blog

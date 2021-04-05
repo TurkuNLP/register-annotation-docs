@@ -2,6 +2,7 @@
 layout: entry
 title: "OP-rv"
 shortdef: "Review"
+subregister_of: Opinion
 ---
 
 **Example**: <https://liveforlivemusic.com/news/dave-matthews-band-away-from-the-world-album-review/>

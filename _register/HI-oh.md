@@ -2,6 +2,7 @@
 layout: entry
 title: "HI-oh"
 shortdef: "Other how-to"
+subregister_of: How-to / instructional
 ---
 
 Other how-to

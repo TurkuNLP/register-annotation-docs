@@ -2,6 +2,7 @@
 layout: entry
 title: "OP-rs"
 shortdef: "Denominational religious blog / sermon"
+subregister_of: Opinion
 ---
 
 **Example**: <https://www.catholiceducation.org/en/culture/catholic-contributions/the-nature-of-the-church.html>

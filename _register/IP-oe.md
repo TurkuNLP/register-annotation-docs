@@ -2,6 +2,7 @@
 layout: entry
 title: "IP-oe"
 shortdef: "Other informational persuasion"
+subregister_of: Informational persuasion
 ---
 
 **Example**: <https://www.vrbo.com/274808ha?noDates=true&unitId=3058523>

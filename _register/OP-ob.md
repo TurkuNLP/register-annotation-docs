@@ -2,6 +2,7 @@
 layout: entry
 title: "OP-ob"
 shortdef: "Opinion blog"
+subregister_of: Opinion
 ---
 
 **Example**: <https://evolllution.com/opinions/faculty-hold-the-keys-to-lower-textbook-costs-but-do-they-care/>

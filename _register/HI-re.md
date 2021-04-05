@@ -2,6 +2,7 @@
 layout: entry
 title: "HI-re"
 shortdef: "Recipe"
+subregister_of: How-to / instructional
 ---
 
 Recipe

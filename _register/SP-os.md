@@ -2,6 +2,7 @@
 layout: entry
 title: "SP-os"
 shortdef: "Other spoken"
+subregister_of: Spoken
 ---
 
 Texts other than [Interviews](SP-it) that are composed of more than 50% spoken material, for example formal speeches and TV/movie transcripts.

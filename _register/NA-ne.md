@@ -2,6 +2,7 @@
 layout: entry
 title: "NA-ne"
 shortdef: "News report"
+subregister_of: Narrative
 ---
 
 News report

@@ -2,6 +2,7 @@
 layout: entry
 title: "NA-on"
 shortdef: "Other narrative"
+subregister_of: Narrative
 ---
 
 Other narrative

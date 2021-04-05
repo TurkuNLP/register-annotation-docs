@@ -2,6 +2,7 @@
 layout: entry
 title: "SP-it"
 shortdef: "Interview"
+subregister_of: Spoken
 ---
 
 Interview

@@ -2,6 +2,7 @@
 layout: entry
 title: "IN-ra"
 shortdef: "Research article"
+subregister_of: Informational description / explanation
 ---
 
 Research article
