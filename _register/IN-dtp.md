@@ -1,8 +1,10 @@
 ---
 layout: entry
 title: "IN-dtp"
-shortdef: "Description of a thing or person (excluding encyclopedia articles)"
+shortdef: "Description of a thing or person"
 ---
+
+Description of a thing or person (excluding encyclopedia articles)
 
 **Example**: <http://www.euroblind.org/convention/article-9/netherlands>
 
