@@ -2,7 +2,7 @@
 layout: entry
 title: "IN-fi"
 shortdef: "Frequently Asked Questions"
-subregister_of: Informational description / explanation
+subregister_of: Informational description
 ---
 
 **Example**: <https://www.propertyinvestmentproject.co.uk/blog/tenants-without-a-written-contract/>

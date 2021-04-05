@@ -2,7 +2,7 @@
 layout: entry
 title: "IN-en"
 shortdef: "Encyclopedia article"
-subregister_of: Informational description / explanation
+subregister_of: Informational description
 ---
 
 Encyclopedia articles.
