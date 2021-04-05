@@ -5,11 +5,11 @@ shortdef: "Frequently Asked Questions"
 subregister_of: Informational description
 ---
 
-**Example**: <https://www.propertyinvestmentproject.co.uk/blog/tenants-without-a-written-contract/>
-
-**Example**: <https://www.canadaadopts.com/adopting-in-canada/adopting-canada-faqs/>
+Frequently Asked Questions
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
