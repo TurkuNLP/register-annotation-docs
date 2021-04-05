@@ -135,8 +135,12 @@ def update_markdown_file(fn, options):
         info = get_information_for_screenshot(img_fn)
         img_infos.append((img_fn, info))
 
+    if img_infos:
+        content = generate_screenshot_gallery(img_infos)
+    else:
+        content = ''
+
     old_content = ''.join(lines[start+1:end])
-    content = generate_screenshot_gallery(img_infos)
     if content == old_content:
         logger.info(f'current content matches data for {fn}, not updating.')
         return 0
