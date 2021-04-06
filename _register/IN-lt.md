@@ -5,7 +5,8 @@ shortdef: "Legal terms and conditions"
 subregister_of: Informational description
 ---
 
-Legal terms and conditions
+- Any document describing legislation
+- E.g., privacy policies, long cookie descriptions, texts describing terms and conditions, bills
 
 <!-- details -->
 
