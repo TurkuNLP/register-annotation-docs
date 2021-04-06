@@ -4,7 +4,9 @@ title: "IN-dtp"
 shortdef: "Description of a thing or person"
 ---
 
-Description of a thing or person (excluding [Encyclopedia articles](IN-en))
+- Texts describing a thing or a person (excluding [Encyclopedia articles](IN-en))
+- A variety of documents ranging from administrative websites describing taxation to health care officials describing illnessess and associations describing their activities
+
 
 <!-- details -->
 
