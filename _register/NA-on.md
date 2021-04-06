@@ -5,7 +5,11 @@ shortdef: "Other narrative"
 subregister_of: Narrative
 ---
 
-Other narrative
+- Narrative texts that are not [News reports](NA-ne), [Sports reports](NA-sr) or [Narrative blogs](NA-nb) 
+- Text purpose is to narrate or report on an event
+- Focus on objective, factual, neutral content
+- Texts such as short stories, fiction, magazine articles, other online articles
+- See Biber & Ebgert 2018: 73-105
 
 <!-- details -->
 
