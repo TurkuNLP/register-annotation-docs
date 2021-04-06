@@ -5,7 +5,8 @@ shortdef: "Recipe"
 subregister_of: How-to / instructional
 ---
 
-Recipe
+- Step-by-step instructions on how to prepare or cook something, typically food
+- Should include at least the ingredients and/or the actual instructions
 
 <!-- details -->
 
