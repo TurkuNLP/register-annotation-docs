@@ -8,7 +8,7 @@ subregister_of: Narrative
 - Personal blogs, travel blogs, lifestyle blogs, blogs written by communities
 - Purpose to narrate / comment about events experienced by the writer(s)
 - Typically amateur writers
-- Can include interactive aspects, such as comments following the post
+- Can include interactive aspects, such as comments following the blog post
 - See Biber & Egbert 2018: 74-79
 
 <!-- details -->
