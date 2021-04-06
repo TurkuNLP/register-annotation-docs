@@ -3,6 +3,8 @@ layout: entry
 title: Web register annotation guidelines
 ---
 
+[When to accept or reject](accept-reject)
+
 ## Quickstart
 
 1. Is the web page [**Machine translated or generated**](MT) from a template?
