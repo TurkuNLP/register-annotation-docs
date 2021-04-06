@@ -5,8 +5,8 @@ shortdef: "Sports report"
 subregister_of: Narrative
 ---
 
-- Purpose to report on a recent sports event
-- Typically written by professional journalists, but can also be published in amateur settings 
+- Text purpose is to report on a recent sports event
+- Typically written by professional journalists, but can also be published by amateur writers, for instance on sports club home pages 
 - Time-sensitive -- published and read as fast as possible
 - Note that not all texts on the topic of sport are automatically annotated as **Sports report**. If the purpose of the text is not to report on a sports event, other register classes should be considered. For example, an article about politics in sports could be annotated as [News report](NA-ne).
 - See Biber and Egbert 2018: 74-75
