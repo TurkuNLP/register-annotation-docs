@@ -7,7 +7,7 @@ subregister_of: How-to / instructional
 
 - How-to instructions that are not [Recipes](HI-re)
 - Step-by-step, objective instructions on how to perform a task
-- Can be written on a personal, commercial or instituional website
+- Can be written on a personal, commercial or institutional website
 - See Biber & Egbert 2018: 134-141
 
 <!-- details -->
