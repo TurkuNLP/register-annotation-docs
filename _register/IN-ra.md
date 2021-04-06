@@ -5,7 +5,11 @@ shortdef: "Research article"
 subregister_of: Informational description
 ---
 
-Research article
+- Describes a research study, including the motivation for the study, the methods used, and the major research findings
+- Written either by an individual or a collaborative group of co-authors, associated with an academic institution
+- Target audience specialists
+- Also dissertations and theses are included in this group
+- Biber & Egbert 2018: 137,141
 
 <!-- details -->
 
