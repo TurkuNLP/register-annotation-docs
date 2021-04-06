@@ -5,7 +5,8 @@ shortdef: "Frequently Asked Questions"
 subregister_of: Informational description
 ---
 
-- Structured as questions-and-answers, to provide specific information about something or instructions on how to do something
+- Documents sructured as questions-and-answers
+- Text purpose to provide specific information about something or instructions on how to do something
 - Websites with procedural information often have special pages with FAQs, anticipating questions that end-users may have
 - The author is usually associated with an institutional or commercial site
 - See Biber & Egbert 2018: 137, 145-146
