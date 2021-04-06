@@ -5,11 +5,11 @@ shortdef: "Other informational persuasion"
 subregister_of: Informational persuasion
 ---
 
-**Example**: <https://www.vrbo.com/274808ha?noDates=true&unitId=3058523>
-
-**Example**: <https://www.amazon.com/How-Get-Grip-Matthew-Kimberley/dp/1843583283>
+Other informational persuasion
 
 <!-- details -->
+
+## Examples
 
 <!-- START GENERATED SCREENSHOT GALLERY -->
 <!--     NOTE: this screenshot gallery is automatically generated.       -->
