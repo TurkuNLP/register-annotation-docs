@@ -5,7 +5,12 @@ shortdef: "Encyclopedia article"
 subregister_of: Informational description
 ---
 
-Encyclopedia articles.
+- Texts that describe or explain a topic
+- Objective is to synthesize the current state of knowledge from all available studies
+- Typically written by a collaborative group of co-authors
+- A "wiki" platform; either Wikipedia or a similar one
+- Many of the articles are biographical describing a person's life and accomplishments
+- See Biber & Egbert 2018: 135-137, 142-144
 
 <!-- details -->
 
