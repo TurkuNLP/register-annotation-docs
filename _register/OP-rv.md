@@ -5,7 +5,9 @@ shortdef: "Review"
 subregister_of: Opinion
 ---
 
-Review
+- Texts evaluating the quality of a product or a service
+- Can be written on a personal, institutional, or commercial website
+- See Biber & Egbert 2018: 106-108
 
 <!-- details -->
 
