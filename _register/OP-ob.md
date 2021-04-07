@@ -5,7 +5,13 @@ shortdef: "Opinion blog"
 subregister_of: Opinion
 ---
 
-Opinion blog
+- Blogs written to express the writer's / writers' opinion
+- Typically written by an amateur writer, such as a politician
+- Typical topics include politics, governmental policies and social issues
+- The author does not need to have any special expertise or credentials
+- Focus on present time orientation
+- Expressions of evaluation and stance, overt argumentation
+- See Biber & Egbert 2018: 106-115, 120-122
 
 <!-- details -->
 
