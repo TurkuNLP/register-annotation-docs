@@ -5,7 +5,7 @@ shortdef: "Other opinion"
 subregister_of: Opinion
 ---
 
-Other opinion
+- Text expressing the writer's or writers' opinion that are not [Reviews](OP-rv), [Opinion blogs](OP-ob), [Denominational religious blogs / sermons](OP-rs), or [Advice](OP-av)
 
 <!-- details -->
 
