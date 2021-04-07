@@ -5,7 +5,7 @@ shortdef: "Denominational religious blog / sermon"
 subregister_of: Opinion
 ---
 
-Denominational religious blog or sermon
+- Denominational religious blog, sermon or other text
 
 <!-- details -->
 
