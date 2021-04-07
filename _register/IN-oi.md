@@ -9,6 +9,7 @@ subregister_of: Informational description
 -  For instance, course materials and descriptive reports
 -  Also informational blogs informing the reader
 -  Presented as objective information rather than personal opinion
+- See Biber & Egbert 2018: 135-149
 
 <!-- details -->
 
