@@ -5,7 +5,9 @@ shortdef: "Description with intent to sell"
 subregister_of: Informational persuasion
 ---
 
-Description with intent to sell
+- Texts describing something with the purpose of selling
+- Overtly marketing, but money does not need to be mentioned
+- E.g., book blurbs, product descriptions
 
 <!-- details -->
 
