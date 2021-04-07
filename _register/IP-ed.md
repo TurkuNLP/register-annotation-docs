@@ -5,7 +5,9 @@ shortdef: "News & opinion blog or editorial"
 subregister_of: Informational persuasion
 ---
 
-News & opinion blog or editorial
+- Purpose to persuade the reader by using information and facts
+- Typically written by a professional on a news-related topic
+- Can be associated with a newspaper or magazine
 
 <!-- details -->
 
