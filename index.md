@@ -12,7 +12,7 @@ title: Web register annotation guidelines
 3. Is the web page originally spoken? (Texts composed of more than 50% spoken quotes classified as spoken)
     * If yes, is it an [**Interview**](SP-it)?
     * If no, select [**Other spoken**](SP-os) (e.g. formal speeches and TV/movie transcripts)
-4. Is the web page written by multiple participants in a discussion format, like a [**Discussion or question-answer forum**](ID)? (Reader comments following e.g. an article or blog post are NOT included here)
+4. Is the web page [**Interactive discussion**](ID) written by multiple participants in a discussion format (e.g. discussion or Q&A forum)? (Reader comments following e.g. an article or blog post are NOT included here)
 5. Is the purpose of the document to narrate or report on EVENTS? If yes, select one of the following registers:
     * [**News report**](NA-ne)
     * [**Sports report**](NA-sr)
