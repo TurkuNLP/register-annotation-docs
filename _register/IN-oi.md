@@ -5,7 +5,10 @@ shortdef: "Other Informational description"
 subregister_of: Informational description
 ---
 
-Other Informational description
+- Texts that describe or explain something but are not [Encyclopedia articles](IN-en), [Research articles](IN-ra), [Descriptions of a thing or a person](IN-dtp), [FAQs](IN-fin), or [Legal terms or conditions](IN-lt).
+-  For instance, course materials and descriptive reports
+-  Also informational blogs informing the reader
+-  Presented as objective information rather than personal opinion
 
 <!-- details -->
 
