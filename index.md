@@ -35,6 +35,6 @@ title: Web register annotation guidelines
     * [**Advice**](OP-av) (based on opinion; contrast with how-to text, which express objective instructions)
     * [**Other opinion**](OP-oo)
 9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
-    * Is the text a <a href="IP-ds"><strong>Description with intent to sell</strong></a> a product or service?
+    * Is the text a [**Description with intent to sell**](IP-ds) a product or service?
     * Is the text a [**News & opinion blog or editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
     * If not, select [**Other informational persuasion**](IP-oe). These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game.
