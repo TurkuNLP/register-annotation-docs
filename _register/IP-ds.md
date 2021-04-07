@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: "IP-ed"
+title: "IP-ds"
 shortdef: "Description with intent to sell"
 subregister_of: Informational persuasion
 ---
