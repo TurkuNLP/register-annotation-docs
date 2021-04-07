@@ -3,7 +3,7 @@ layout: entry
 title: Web register annotation guidelines
 ---
 
-<a href="accept-reject">When to accept or reject</a>
+<a href="accept-reject">When to accept or reject a document</a>
 
 ## Quickstart
 
