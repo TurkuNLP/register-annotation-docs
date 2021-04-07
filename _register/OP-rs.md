@@ -6,6 +6,7 @@ subregister_of: Opinion
 ---
 
 - Denominational religious blog, sermon or other text
+- Focus on _denominational:_ texts describing a religioun can be e.g., [Description of a thing or a person](IN-dtp)
 
 <!-- details -->
 
