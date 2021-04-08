@@ -6,6 +6,7 @@ shortdef: "Interactive discussion"
 
 - Interactive forum discussions with discussion participants and possibly other readers
 - Question-answer forums, where one person asks a question and one or several answer it
+- If the text only consists of comments that belong/are related to a blog post or an article, **but the blog post or article is missing**, then these comments should be annotated as Interactive discussion. However, comments following a visible blog post or article are not separately labelled as Interactive discussion but according to the main body of text.
 - Originally written!
 - See Biber & Ebgert 2018: 177-179
 
