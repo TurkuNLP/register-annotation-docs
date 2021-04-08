@@ -7,7 +7,7 @@ subregister_of: Informational persuasion
 
 - Texts describing something with the purpose of selling
 - Overtly marketing, but money does not need to be mentioned
-- E.g., book blurbs, product descriptions
+- E.g., book blurbs, product descriptions, marketing a service
 
 <!-- details -->
 
