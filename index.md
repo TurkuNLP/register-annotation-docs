@@ -5,6 +5,8 @@ title: Web register annotation guidelines
 
 <a href="accept-reject">When to accept or reject a document</a>
 
+<a href="hybrids">When to label text as hybrid</a>
+
 ## Quickstart
 
 1. Is the web page [**Machine translated or generated**](MT) from a template?
