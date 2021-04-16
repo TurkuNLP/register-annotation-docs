@@ -10,7 +10,7 @@ The annotation task consists of two steps: deciding whether to accept or reject 
 <a href="hybrids">When to give a document several labels</a>
 
 Please note that
-- You can have a look at how the document website looks like by following the document url
+- You can have a look at how the document website looks like by following the document url on the annotator
 - The annotation decision should, however, base on the text on the annotator 
 
 ## Quickstart
