@@ -7,6 +7,7 @@ subregister_of: Narrative
 
 - News reports written by journalists and published by news outlets
 - Releases and newsletters published by sports associations, companies, etc.
+- Weather forecasts
 - Text purpose is to report on recent events
 - Typically professionally written and time-sensitive - published and read as fast as possible
 - See Biber & Egbert 74-75
