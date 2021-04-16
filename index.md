@@ -3,9 +3,15 @@ layout: entry
 title: Web register annotation guidelines
 ---
 
+The annotation task consists of two steps: deciding whether to accept or reject a document, and giving a register label / labels to the accepted documents.
+
 <a href="accept-reject">When to accept or reject a document</a>
 
-<a href="hybrids">When to label text as hybrid</a>
+<a href="hybrids">When to give a document several labels</a>
+
+Please note that
+- You can have a look at how the document website looks like by following the document url
+- The annotation decision should, however, base on the text on the annotator 
 
 ## Quickstart
 
