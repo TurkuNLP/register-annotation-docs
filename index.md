@@ -16,7 +16,7 @@ title: Web register annotation guidelines
     * If no, select [**Other spoken**](SP-os) (e.g. formal speeches and TV/movie transcripts)
 4. Is the web page [**Interactive discussion**](ID) written by multiple participants in a discussion format (e.g. discussion or Q&A forum)? (Reader comments following e.g. an article or blog post are NOT included here)
 5. Is the purpose of the document to narrate or report on EVENTS? If yes, select one of the following registers:
-    * [**News report**](NA-ne)
+    * [**News report**](NA-ne) (including weather forecasts)
     * [**Sports report**](NA-sr)
     * [**Narrative blog**](NA-nb) (e.g a travel blog or a personal blog)
     * [**Other narrative**](NA-on) (e.g. fictional stories and magazine articles)
