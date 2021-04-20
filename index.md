@@ -11,7 +11,8 @@ The annotation task consists of two steps: deciding whether to accept or reject 
 
 Please note that
 - You can have a look at how the document website looks like by following the document url on the annotator
-- The annotation decision should, however, base on the text on the annotator 
+- The annotation decision should, however, base on the text on the annotator
+- Some documents may be followed by a large number of comments. Please do not base your decision on those. 
 
 ## Quickstart
 
