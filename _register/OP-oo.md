@@ -6,6 +6,8 @@ subregister_of: Opinion
 ---
 
 - Text expressing the writer's or writers' opinion that are not [Reviews](OP-rv), [Opinion blogs](OP-ob), [Denominational religious blogs / sermons](OP-rs), or [Advice](OP-av)
+- For example an opinion piece
+- Compared to [News & opinion blog or editorial](IP-ed), Other opinion features less solid argumentation
 
 <!-- details -->
 
