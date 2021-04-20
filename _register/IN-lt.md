@@ -6,7 +6,9 @@ subregister_of: Informational description
 ---
 
 - Any document describing legislation
-- E.g., privacy policies, long cookie descriptions, texts describing terms and conditions, bills
+- Texts belonging to Legal terms and conditions are official by nature
+- E.g., privacy policies, long cookie descriptions, texts describing terms and conditions, bills, rules of an association
+- For rules of a game, see [Other how-to](HI-oh)
 
 <!-- details -->
 
