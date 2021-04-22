@@ -4,7 +4,8 @@ title: "MT"
 shortdef: "Machine translated or generated"
 ---
 
-TODO
+- Texts that are clearly machine translated or generated from a template
+- It is not necessary to give another register label to Machine translated or generated text
 
 <!-- details -->
 
