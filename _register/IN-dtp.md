@@ -6,7 +6,7 @@ shortdef: "Description of a thing or person"
 
 - Texts describing a thing or a person (excluding [Encyclopedia articles](IN-en))
 - A variety of documents ranging from administrative websites describing taxation to health care officials describing illnessess and associations describing their activities
-- This category includes also job descriptions
+- This category includes also job descriptions and notices of open tender
 
 
 <!-- details -->
