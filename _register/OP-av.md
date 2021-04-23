@@ -12,6 +12,7 @@ subregister_of: Opinion
 - In most cases, there is no identified author, but the instance hosting the site usually has some kind of expertise on the topic
 - Differs from [Opinion blogs](OP-ob) and other [Opinions](OP-oo) in being directive and suggesting actions for the reader
 - Typical topics healthcare, finding a job, parenting, training for a sport
+- Note that horoscopes count as advice
 - See Biber & Egbert 2018: 106-107, 113
 
 <!-- details -->
