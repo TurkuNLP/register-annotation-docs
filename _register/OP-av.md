@@ -9,10 +9,9 @@ subregister_of: Opinion
 - Purpose to offer advice that leads to suggested actions and solves a particular problem
 - Objective instructions should be annotated as [Other how-to](HI-oh)
 - Often associated with an institutional or commercial site
-- In most cases, there is no identified author, but the instance hosting the site usually has some kind of expertise on the topic
 - Differs from [Opinion blogs](OP-ob) and other [Opinions](OP-oo) in being directive and suggesting actions for the reader
-- Typical topics healthcare, finding a job, parenting, training for a sport
-- Note that horoscopes count as advice
+- Typical topics include healthcare, finding a job, parenting, training for a sport
+- Please note that horoscopes and betting tips count as advice
 - See Biber & Egbert 2018: 106-107, 113
 
 <!-- details -->
