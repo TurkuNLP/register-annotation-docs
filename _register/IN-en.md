@@ -9,6 +9,7 @@ subregister_of: Informational description
 - Objective is to synthesize the current state of knowledge from all available studies
 - Typically written by a collaborative group of co-authors
 - A "wiki" platform; either Wikipedia or a similar one
+- A dictionary entry
 - Many of the articles are biographical describing a person's life and accomplishments
 - See Biber & Egbert 2018: 135-137, 142-144
 
