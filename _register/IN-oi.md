@@ -6,7 +6,7 @@ subregister_of: Informational description
 ---
 
 - Texts that describe or explain something but are not [Encyclopedia articles](IN-en), [Research articles](IN-ra), [Descriptions of a thing or a person](IN-dtp), [FAQs](IN-fi), or [Legal terms or conditions](IN-lt).
--  For instance, course materials, test papers, and descriptive reports
+-  For instance, course materials, test papers, meeting minutes, and descriptive reports
 -  Also informational blogs informing the reader
 -  Presented as objective information rather than personal opinion
 - See Biber & Egbert 2018: 135-149
