@@ -9,7 +9,7 @@ Reject when
 - the main body of text are short photo captions
 - the sentences don’t form a coherent text
 - there are only individual lines of actual text 
-- the amount of coherent text is very small compared to the 'junk' text
+- the amount of coherent text is very small compared to the 'junk' text (otherwise focus on annotating the actual text and ignore the junk text)
 - there are no complete sentences, or fewer than two (e.g. lists of short news introductions)
 - the text is not in the target language
 - the text is poorly extracted (not representative of the web page)
