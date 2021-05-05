@@ -39,3 +39,6 @@ subregister_of: How-to / instructional
   </tbody>
 </table>
 <!-- END GENERATED SCREENSHOT GALLERY -->
+
+### Ambiguous cases resolved to HI-oh
+- An article by a page (similar to the pages on Facebook that can be followed) explaining the newest covid-19 measures and what people should do when returning from outside the border. The explanations on the things to do are very detailed with screen captures. It is not professionally written by journalists, nor in the format of typical news.
