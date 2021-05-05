@@ -47,3 +47,6 @@ subregister_of: Narrative
   </tbody>
 </table>
 <!-- END GENERATED SCREENSHOT GALLERY -->
+
+### Ambiguous cases resolved to NA-ne
+- A report on the schedule of a major in a week: NA-ne sounds good, if there's some persuasion to attend some event, then also IP-oi
