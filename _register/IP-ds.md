@@ -44,3 +44,6 @@ subregister_of: Informational persuasion
   </tbody>
 </table>
 <!-- END GENERATED SCREENSHOT GALLERY -->
+
+### Ambiguous cases resolved to IP-ds
+- A list of reasons of why a company should have a website, from a company that builds websites, not exactly 'descriptions' of products
