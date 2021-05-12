@@ -11,7 +11,6 @@ subregister_of: Opinion
 - Often associated with an institutional or commercial site
 - Differs from [Opinion blogs](OP-ob) and other [Opinions](OP-oo) in being directive and suggesting actions for the reader
 - Typical topics include healthcare, finding a job, parenting, training for a sport
-- Please note that horoscopes and betting tips count as advice
 - See Biber & Egbert 2018: 106-107, 113
 
 <!-- details -->
@@ -49,3 +48,7 @@ subregister_of: Opinion
   </tbody>
 </table>
 <!-- END GENERATED SCREENSHOT GALLERY -->
+
+### Ambiguous cases resolved to OP-av
+- Daily horoscopes
+- Tips on how to win in a lottery or the pools
