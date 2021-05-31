@@ -50,3 +50,4 @@ subregister_of: Narrative
 
 ### Ambiguous cases resolved to NA-ne
 - A report on the schedule of a major in a week: NA-ne sounds good, if there's some persuasion to attend some event, then also IP-oi
+- A news report page, about the fluctuations of the price of chicken and it is 7 paragraphs. Even though it is written as a news report, each of the 7 paragraphs is a quotation (from the responsible person in the government): annotated as NA-ne only
