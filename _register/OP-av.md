@@ -52,3 +52,4 @@ subregister_of: Opinion
 ### Ambiguous cases resolved to OP-av
 - Daily horoscopes
 - Tips on how to win in a lottery or the pools
+- A questionnaire and online test, which at the end will tell you if it is better for you to stay single or get married
