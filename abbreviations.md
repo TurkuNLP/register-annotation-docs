@@ -5,6 +5,7 @@
 The upper level categories are CAPITALIZED and the lower level categories in lower case.
 
 MACHINE TRANSLATED OR GENERATED: MT
+
 LYRICAL: LY
 
 SPOKEN: SP
