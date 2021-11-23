@@ -1,44 +1,44 @@
 
 
-###Register labels and their abbreviations
+## Register labels and their abbreviations
 
-The main categories are bolded and 
+The upper level categories are CAPITALIZED and the lower level categories in lower case.
 
-Machine translated or generated from a template: MT
-Lyrical: LY
+MACHINE TRANSLATED OR GENERATED: MT
+LYRICAL: LY
 
-Spoken: SP
-* Spoken Interview: it
+SPOKEN: SP
+* Interview: it
 * Other spoken: os
 
-Interactive discussion: ID
+INTERACTIVE DISCUSSION: ID
 
-Narrative: NA
-* Narrative News report: ne 
-* Narrative Sports report: sr
+NARRATIVE: NA
+* News report: ne 
+* Sports report: sr
 * Narrative blog nb
 * Other narrative: on
 
-How-to or instructions: HI
-* How-to recipe: re
+HOW-TO or INSTRUCTIONS: HI
+* Recipe: re
 * Other how-to: oh
 
-Informational Description: IN
-* Informational Description encyclopedia article: en
-* Informational Description Research article: ra
-* Informational Description Description of a thing or person: dtp
-* Informational Description FAQ fi
-* Informational Description Legal terms and conditions lt
+INFORMATIONAL DESCRIPTION: IN
+* Encyclopedia article: en
+* Research article: ra
+* Description of a thing or person: dtp
+* Faq: fi
+* Legal terms and conditions: lt
 * Other Informational description: oi
 
-Opinion: OP 
-* Opinion review: rv
+OPINION: OP 
+* Review: rv
 * Opinion blog: ob
-* Opinion denominational religious blog / sermon: rs
-* Opinion advice: av
+* Denominational religious blog / sermon: rs
+* Advice: av
 * Other opinion: oo
 
-Informational Persuasion: IP
+INFORMATIONAL PERSUASION: IP
 * Description with intent to sell: ds 
 * News & opinion blog or editorial: ed
 * Other informational persuasion oe 
