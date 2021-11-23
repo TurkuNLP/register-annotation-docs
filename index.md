@@ -9,6 +9,8 @@ The annotation task consists of two steps: deciding whether to accept or reject 
 
 <a href="hybrids">When to give a document several labels</a>
 
+<a href="abbreviations">Short list of register labels and their abbreviations</a>
+
 Please note that
 - You can have a look at how the document website looks like by following the document url on the annotator
 - The annotation decision should, however, base on the text on the annotator
@@ -51,3 +53,4 @@ Please note that
     * Is the text a [**Description with intent to sell**](IP-ds) a product or service? 
     * Is the text a [**News & opinion blog or editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
     * If not, select [**Other informational persuasion**](IP-oe). These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game. 
+
