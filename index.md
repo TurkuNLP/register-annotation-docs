@@ -18,32 +18,36 @@ Please note that
 
 1. Is the web page [**Machine translated or generated**](MT) from a template? (MT)
 2. Is the web page [**Lyrical**](LY), such as songs or poems? (LY)
-3. Is the web page originally spoken? (Texts composed of more than 50% spoken quotes classified as spoken)
-    * If yes, is it an [**Interview**](SP-it)? (SP-it)
-    * If no, select [**Other spoken**](SP-os) (e.g. formal speeches and TV/movie transcripts) (SP-os)
+3. Is the web page originally spoken? (Texts composed of more than 50% spoken quotes classified as spoken) (SP)
+    * If yes, is it an [**Interview**](SP-it)? (it)
+    * If no, select [**Other spoken**](SP-os) (e.g. formal speeches and TV/movie transcripts) (os)
 4. Is the web page [**Interactive discussion**](ID) written by multiple participants in a discussion format (e.g. discussion or Q&A forum)? (Reader comments following e.g. an article or blog post are NOT included here) (ID)
-5. Is the purpose of the document to narrate or report on EVENTS? If yes, select one of the following registers:
-    * [**News report**](NA-ne)
-    * [**Sports report**](NA-sr)
-    * [**Narrative blog**](NA-nb) (e.g a travel blog or a personal blog)
-    * [**Other narrative**](NA-on) (e.g. fictional stories and magazine articles)
-6. Is the purpose of the document to explain HOW-TO or INSTRUCTIONS?
-    * If yes, is it a [**Recipe**](HI-re)?
-    * If no, select [**Other how-to**](HI-oh). These are typically step-by-step, objective instructions on how to do something.
-7. Is the purpose of the document to describe or explain INFORMATION? If yes, select one of the following registers:
-    * [**Encyclopedia article**](IN-en) 
-    * [**Research article**](IN-ra)
-    * [**Description of a thing or person**](IN-dtp)
-    * [**FAQ**](IN-fi)
-    * [**Legal terms and conditions**](IN-lt) (including long cookie texts)
-    * [**Other Informational description**](IN-oi) (e.g. course materials and blogs for informing the reader)
-8. Is the purpose of the document to express OPINIONS? If yes, select one of the following registers:
-    * [**Review**](OP-rv)
-    * [**Opinion blog**](OP-ob) (typically written by an amateur writer, such as a politician, to express their opinion)
-    * [**Denominational religious blog / sermon**](OP-rs)
-    * [**Advice**](OP-av) (based on opinion; contrast with how-to text, which express objective instructions)
-    * [**Other opinion**](OP-oo)
-9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? If yes, select one of the following registers:
-    * Is the text a [**Description with intent to sell**](IP-ds) a product or service?
-    * Is the text a [**News & opinion blog or editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation.
-    * If not, select [**Other informational persuasion**](IP-oe). These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game.
+5. Is the purpose of the document to narrate or report on EVENTS? (NA)
+   If yes, select one of the following registers:
+    * [**News report**](NA-ne) (ne)
+    * [**Sports report**](NA-sr) (sr)
+    * [**Narrative blog**](NA-nb) (e.g a travel blog or a personal blog) (nb)
+    * [**Other narrative**](NA-on) (e.g. fictional stories and magazine articles) (on)
+6. Is the purpose of the document to explain HOW-TO or INSTRUCTIONS? (HI)
+    * If yes, is it a [**Recipe**](HI-re)? (re)
+    * If no, select [**Other how-to**](HI-oh). These are typically step-by-step, objective instructions on how to do something. (oh)
+7. Is the purpose of the document to describe or explain INFORMATION? (IN)
+   If yes, select one of the following registers: 
+    * [**Encyclopedia article**](IN-en) (en)
+    * [**Research article**](IN-ra) (ra)
+    * [**Description of a thing or person**](IN-dtp) (dtp)
+    * [**FAQ**](IN-fi) (fi)
+    * [**Legal terms and conditions**](IN-lt) (including long cookie texts) (lt)
+    * [**Other Informational description**](IN-oi) (e.g. course materials and blogs for informing the reader) (oi)
+8. Is the purpose of the document to express OPINIONS? (OP)
+   If yes, select one of the following registers:
+    * [**Review**](OP-rv) (rv)
+    * [**Opinion blog**](OP-ob) (typically written by an amateur writer, such as a politician, to express their opinion) (ob)
+    * [**Denominational religious blog / sermon**](OP-rs) (rs)
+    * [**Advice**](OP-av) (based on opinion; contrast with how-to text, which expresses objective instructions) (av)
+    * [**Other opinion**](OP-oo) (oo)
+9. Is the purpose of the document to describe or explain FACTS WITH INTENT TO PERSUADE or MARKET? (IP)
+   If yes, select one of the following registers:
+    * Is the text a [**Description with intent to sell**](IP-ds) a product or service? (ds)
+    * Is the text a [**News & opinion blog or editorial**](IP-ed)? These are typically written by a professional writer on a news-related topic, with well-structured argumentation. (ed)
+    * If not, select [**Other informational persuasion**](IP-oe). These are descriptive texts that also sell or promote a service, product or upcoming event, such as a hotel, a smartphone or a football game. (oe)
