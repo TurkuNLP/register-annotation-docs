@@ -11,6 +11,8 @@ The annotation task consists of two steps: deciding whether to accept or reject 
 
 <a href="abbreviations">Short list of register labels and their abbreviations</a>
 
+<a href="https://drive.google.com/file/d/1lViIiNLCGR6CPg3fat7_gK42K7EzXBea/view?usp=sharing">Video instructions to the annotation on Prodigy</a>
+
 Please note that
 - You can have a look at how the document website looks like by following the document url on the annotator
 - The annotation decision should, however, base on the text on the annotator
