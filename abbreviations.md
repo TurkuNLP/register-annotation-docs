@@ -1,7 +1,7 @@
 ### Register labels and their abbreviations
 
 
-The upper level categories are CAPITALIZED and the lower level categories in lower case.
+The upper level categories are CAPITALIZED and the lower level categories in lower case. Please note that some models do not use the _other_ label, such as _other spoken_.
 
 1. MACHINE TRANSLATED OR GENERATED: MT
 
